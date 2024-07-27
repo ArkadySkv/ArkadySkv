@@ -1,1 +1,1 @@
-I love DBMS and Neural Networks
+I love DBMS Internals and Neural Networks
